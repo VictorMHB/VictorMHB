@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=200&section=header&text=Fala%2C%20eu%20sou%20o%20Victor!&fontSize=44&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Next.js+%C2%B7+React+%C2%B7+TypeScript;Java+%C2%B7+Spring+Boot;Sempre+aprendendo+e+evoluindo" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=200&section=header" width="100%"/>
 
 <br/>
 
@@ -19,8 +15,6 @@
 
 - 💻 Desenvolvedor **Full Stack**, trabalhando com front-end, back-end e APIs
 - 🔐 Experiência com autenticação, banco de dados e deploy
-- 🧼 Gosto de código limpo, commits pequenos e projetos bem organizados
-- 🌱 Sempre aprendendo coisas novas e evoluindo o que já está no ar
 
 ---
 
